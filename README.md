@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yiğit</h1>
+<h1 align="center">Hi 👋, I'm Yiğit😁</h1>
 <h3 align="left">Software engineering student at Maltepe University. I'm a Front-End Developer based in Istanbul, focused on crafting clean & user‑friendly experiences.</h3>
 
 <h3 align="left">My Technical Skills</h3>
