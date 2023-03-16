@@ -15,8 +15,8 @@
         <img src = "https://seeklogo.com/images/A/adobe-lightroom-cc-logo-8077CAE010-seeklogo.com.png" alt="Lightroom" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="Lightroom" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
-        <img src = "https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png" alt="Git" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
