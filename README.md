@@ -36,4 +36,4 @@
 </p>
 
 <h3>See More at</h3>
-<a href="http://www.atakanyigit.com/" target="blank">http://www.atakanyigit.com/</a>
+<a href="https://www.atakanyigit.com" target="blank">https://www.atakanyigit.com</a>
