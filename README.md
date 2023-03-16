@@ -3,16 +3,20 @@
 
 <h3 align="left">My Technical Skills</h3>
 <p align="left"> 
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html5" width="39" height="41"/> 
-        <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="css3" width="39" height="41"/>      
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="44" height="44"/> 
-        <img src="https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="Git" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html5" width="39" height="41"/> 
+        <img src = "https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="css3" width="39" height="41"/>    
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src = "https://reactnative.dev/img/header_logo.svg" alt="react" width="44" height="44"/> 
+        <img src = "https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="Git" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="Git" width="40" height="40"/> 
 </p>
 <p align="left"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        <img src="https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="Photoshop" width="40" height="40"/> 
-        <img src="https://seeklogo.com/images/A/adobe-lightroom-cc-logo-8077CAE010-seeklogo.com.png" alt="Lightroom" width="40" height="40"/> 
-        <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="Photoshop" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/A/adobe-lightroom-cc-logo-8077CAE010-seeklogo.com.png" alt="Lightroom" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="Lightroom" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png" alt="Git" width="40" height="40"/> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
