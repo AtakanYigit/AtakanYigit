@@ -6,9 +6,10 @@
         <img src = "https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html5" width="39" height="41"/> 
         <img src = "https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="css3" width="39" height="41"/>    
         <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         <img src = "https://reactnative.dev/img/header_logo.svg" alt="react" width="44" height="44"/> 
         <img src = "https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="Git" width="40" height="40"/> 
-        <img src = "https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="Git" width="40" height="40"/> 
+        <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Git" width="40" height="40"/> 
 </p>
 <p align="left"> 
         <img src = "https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="Photoshop" width="40" height="40"/> 
@@ -17,21 +18,28 @@
         <img src = "https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png" alt="Git" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
+        <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://www.behance.net/atakanyigit" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+    </a>
+    <a href="https://dribbble.com/Atakan_Yigit" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
+    </a>
     <a href="https://www.instagram.com/atakan_yigitt/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atakanyi̇gi̇tt" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
     <a href="https://twitter.com/atakan_yigitt" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atakan_yigitt" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/14099467" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14099467" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/atakan-yigit-cengeloglu/" target="blank">
-        <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-57AEED2A37-seeklogo.com.png" alt="atakan yi̇gi̇t cengeloglu" height="30" width="30" />
+        <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-57AEED2A37-seeklogo.com.png" alt="Linkedin" height="30" width="30" />
     </a>
 </p>
 
