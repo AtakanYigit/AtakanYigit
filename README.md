@@ -45,3 +45,6 @@
 
 <h3>See More at</h3>
 <a href="https://www.atakanyigit.com" target="blank">https://www.atakanyigit.com</a>
+
+<h3>Also, Check Out My Blog at</h3>
+<a href="https://www.atakanyigit.com/Blog" target="blank">https://www.atakanyigit.com</a>
