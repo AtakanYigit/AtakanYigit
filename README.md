@@ -8,13 +8,14 @@
         <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         <img src = "https://reactnative.dev/img/header_logo.svg" alt="react" width="44" height="44"/> 
+        <img src = "https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="44" height="44"/> 
         <img src = "https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="Git" width="40" height="40"/> 
-        <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Git" width="40" height="40"/> 
+        <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
 </p>
 <p align="left"> 
         <img src = "https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="Photoshop" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/A/adobe-lightroom-icon-cc-logo-6378CF48DC-seeklogo.com.png?v=638133710770000000" alt="Lightroom" width="40" height="40"/> 
-        <img src = "https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="Lightroom" width="40" height="40"/> 
+        <img src = "https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="Illustrator" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png" alt="Git" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
