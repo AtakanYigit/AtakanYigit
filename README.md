@@ -51,4 +51,4 @@
 <a href="https://www.atakanyigit.com" target="blank">https://www.atakanyigit.com</a>
 
 <h3>Also, Check Out My Articles at</h3>
-<a href="https://www.atakanyigit.com/Blog" target="blank">https://www.atakanyigit.com/Blog</a>
+<a href="https://www.atakanyigit.com/Blog" target="blank">https://blog.atakanyigit.com</a>
