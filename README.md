@@ -42,7 +42,7 @@
     <a href="https://www.linkedin.com/in/atakan-yigit-cengeloglu/" target="blank">
         <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-57AEED2A37-seeklogo.com.png" alt="Linkedin" height="30" width="30" />
     </a>
-    <a href="https://blog.ataknyigit.com/" target="blank">
+    <a href="https://blog.atakanyigit.com/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Linkedin" height="30" width="30" />
     </a>
 </p>
