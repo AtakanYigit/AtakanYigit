@@ -27,23 +27,29 @@
     <a href="https://www.behance.net/atakanyigit" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
     </a>
+        -
     <a href="https://dribbble.com/Atakan_Yigit" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
     </a>
+        -
     <a href="https://www.instagram.com/atakan_yigitt/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
+        -
     <a href="https://twitter.com/atakan_yigitt" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
     </a>
+        -
     <a href="https://stackoverflow.com/users/14099467" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
     </a>
+        -
     <a href="https://www.linkedin.com/in/atakan-yigit-cengeloglu/" target="blank"> 
         <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-57AEED2A37-seeklogo.com.png" alt="Linkedin" height="30" width="30" />
     </a>
+        -
     <a href="https://blog.atakanyigit.com/" target="blank"> 
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Linkedin" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
     </a>
 </p>
 
@@ -51,4 +57,4 @@
 <a href="https://www.atakanyigit.com" target="blank">https://www.atakanyigit.com</a>
 
 <h3>Also, Check Out My Articles at</h3>
-<a href="https://www.atakanyigit.com/Blog" target="blank">https://blog.atakanyigit.com</a>
+<a href="https://blog.atakanyigit.com" target="blank">https://blog.atakanyigit.com</a>
