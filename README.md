@@ -40,7 +40,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/in/atakan-yigit-cengeloglu/" target="blank"> 
-        <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-57AEED2A37-seeklogo.com.png" alt="Linkedin" height="30" width="33" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="Linkedin" height="30" width="33" />
     </a>
     <a href="https://blog.atakanyigit.com/" target="blank"> 
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
