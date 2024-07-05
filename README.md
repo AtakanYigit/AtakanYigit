@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yiğit😁</h1>
-<h3 align="left">Software engineering student at Maltepe University. I'm a Front-End Developer based in Istanbul, focused on crafting clean & user‑friendly experiences.</h3>
+<h3 align="left">Front-end developer and designer with a passion for crafting creative, unique, and user-friendly experiences.</h3>
 
 <h3 align="left">My Technical Skills</h3>
 <p align="left"> 
@@ -25,29 +25,23 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.behance.net/atakanyigit" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40"/>
     </a>
-        -
     <a href="https://dribbble.com/Atakan_Yigit" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40"/>
     </a>
-        -
     <a href="https://www.instagram.com/atakan_yigitt/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
-        -
     <a href="https://twitter.com/atakan_yigitt" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" />
     </a>
-        -
     <a href="https://stackoverflow.com/users/14099467" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" />
     </a>
-        -
     <a href="https://www.linkedin.com/in/atakan-yigit-cengeloglu/" target="blank"> 
-        <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-57AEED2A37-seeklogo.com.png" alt="Linkedin" height="30" width="30" />
+        <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-57AEED2A37-seeklogo.com.png" alt="Linkedin" height="30" width="33" />
     </a>
-        -
     <a href="https://blog.atakanyigit.com/" target="blank"> 
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
     </a>
