@@ -49,6 +49,9 @@
 
 <h3>See More at</h3>
 <a href="https://www.atakanyigit.com" target="blank">https://www.atakanyigit.com</a>
+and
+<a href="https://www.kleinpixelagency.com/" target="blank">https://www.kleinpixelagency.com/</a>
+
 
 <h3>Also, Check Out My Articles at</h3>
 <a href="https://blog.atakanyigit.com" target="blank">https://blog.atakanyigit.com</a>
