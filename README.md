@@ -12,10 +12,10 @@
         <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
 </p>
 <p align="left"> 
-        <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> 
+        <img src = "https://skillicons.dev/icons?i=ps" alt="Photoshop" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/A/adobe-lightroom-icon-cc-logo-6378CF48DC-seeklogo.com.png?v=638133710770000000" alt="Lightroom" width="40" height="40"/> 
-        <img src = "https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
-        <img src = "https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Xd" width="40" height="40"/> 
+        <img src = "https://skillicons.dev/icons?i=ai" alt="Illustrator" width="40" height="40"/> 
+        <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Xd" width="40" height="40"/> 
         <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Xd" width="40" height="40"/> 
         <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
 </p>
