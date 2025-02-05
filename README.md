@@ -3,22 +3,20 @@
 
 <h3 align="left">My Technical Skills</h3>
 <p align="left"> 
-        <img src = "https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" alt="html5" width="39" height="41"/> 
-        <img src = "https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" alt="css3" width="39" height="41"/>    
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="39" height="41"/> 
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="39" height="41"/>    
         <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
         <img src = "https://reactnative.dev/img/header_logo.svg" alt="react" width="44" height="44"/> 
         <img src = "https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="react native" width="44" height="44"/> 
-        <img src = "https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png" alt="Git" width="40" height="40"/> 
         <img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
 </p>
 <p align="left"> 
-        <img src = "https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png" alt="Photoshop" width="40" height="40"/> 
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> 
         <img src = "https://seeklogo.com/images/A/adobe-lightroom-icon-cc-logo-6378CF48DC-seeklogo.com.png?v=638133710770000000" alt="Lightroom" width="40" height="40"/> 
-        <img src = "https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" alt="Illustrator" width="40" height="40"/> 
-        <img src = "https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
-        <img src = "https://seeklogo.com/images/N/npm-logo-F0E1FE956F-seeklogo.com.png" alt="Git" width="40" height="40"/> 
-        <img src = "https://seeklogo.com/images/S/sass-logo-E41E7734A8-seeklogo.com.png" alt="Xd" width="40" height="40"/> 
+        <img src = "https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> 
+        <img src = "https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Xd" width="40" height="40"/> 
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Xd" width="40" height="40"/> 
         <img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
 </p>
 
@@ -43,7 +41,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
     </a>
     <a href="https://www.linkedin.com/in/atakan-yigit-cengeloglu/" target="blank">
-        <img align="center" src="https://seeklogo.com/images/L/linkedin-icon-logo-57AEED2A37-seeklogo.com.png" alt="Linkedin" height="30" width="33" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="33" />
     </a>
 </p>
 
